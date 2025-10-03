@@ -34,7 +34,7 @@ This document repository captures requirements for a layered RPG/fantasy world s
    - Provinces, kingdoms, factions.
    - Stats: military, diplomacy, economy, unrest.
 
-5. **World**
+5. [**World**](/World%20Layers/World/world.md)
    - Wars, plagues, migrations, pantheon rivalries.
    - Driven by arcs and cultural drift.
 
