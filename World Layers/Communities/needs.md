@@ -94,6 +94,40 @@ Community **size** (Hamlet → Village → Town → City → Metropolis) affects
 
 ---
 
+### Health
+- **Definition**: The community’s capacity to maintain physical and mental well-being through medicine, hygiene, and care.  
+- **Scaling by Size**:  
+  - Hamlet: Folk remedies and local healers; illness can devastate.  
+  - Village: One or more trained healers or apothecaries.  
+  - Town: A small clinic or temple providing regular care.  
+  - City: Multiple hospitals, midwives’ guilds, or magical healers.  
+  - Metropolis: Advanced medical institutions, universities, or divine healing centers.  
+- **Abundance Impact**:  
+  - Abundant → Disease rare, birthrates high, morale strong.  
+  - Stable → Illness manageable, regular care available.  
+  - Limited → Shortages of healers or medicine; fatigue and anxiety rise.  
+  - Strained → Epidemics spread, sanitation collapses.  
+  - Failing → Plague, despair, or curse threatens survival.   
+
+---
+
+### Leadership
+- **Definition**: The community’s ability to make collective decisions, coordinate efforts, and provide direction in times of need.  
+- **Scaling by Size**:  
+  - Hamlet: Guided by elders or family heads; informal but cohesive.  
+  - Village: Local chief, reeve, or council of representatives.  
+  - Town: Elected officials or guild-appointed leaders.  
+  - City: Mayoral or noble governance, formal bureaucracy.  
+  - Metropolis: Layered governance — noble houses, guild councils, or regional governors.  
+- **Abundance Impact**:  
+  - Abundant → Clear vision, unity of purpose, and strong coordination.  
+  - Stable → Leadership functional, minor disputes resolved quickly.  
+  - Limited → Bureaucratic delays, indecision, or factional influence.  
+  - Strained → Power struggles, corruption, or weak legitimacy.  
+  - Failing → Collapse of authority, mob rule, or civil chaos.  
+ 
+---
+
 ## Optional Expanded Needs
 Depending on setting, additional needs may be tracked:  
 - **Knowledge** — libraries, schools, archives (town+).  

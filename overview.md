@@ -32,7 +32,7 @@ This document repository captures requirements for a layered RPG/fantasy world s
 
 4. [**Realms**](/World%20Layers/Realms/realms.md)
    - Provinces, kingdoms, factions.
-   - Stats: military, diplomacy, economy, unrest.
+   - Stats: Power, Unity, Prestige.
 
 5. [**World**](/World%20Layers/World/world.md)
    - Wars, plagues, migrations, pantheon rivalries.
