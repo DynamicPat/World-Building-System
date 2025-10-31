@@ -49,7 +49,7 @@ Archetypes provide quick shorthand for creating individuals. See [Archetypes](ar
 ---
 
 ## Interaction with Higher Layers
-- **Clans**: Families inherit traits from prominent individuals.  
+- **Clans**: Families inherit traits from prominent individuals (see [Individual Clan Membership](individual-clan-membership.md) for more information).  
 - **Communities**: Champions provide bonuses to stability, prosperity, or influence.  
 - **Realms**: Notable individuals become leaders, generals, or cultural icons.  
 - **World**: Legends, myths, and religious figures emerge from individual deeds.  
