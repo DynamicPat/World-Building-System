@@ -39,8 +39,8 @@ This document repository captures requirements for a layered RPG/fantasy world s
    - Driven by arcs and cultural drift.
 
 ### Champion Emergence
-- **Champion Seeds**: notable deeds can spark proto-champions.  
-- **Growth by Deeds**:  
+- [**Champion Seeds**](/Champion%20Emergence/champion-seeds.md): notable deeds can spark proto-champions.  
+- [**Growth by Deeds**](/Champion%20Emergence/champion-deeds.md):  
   - After **Victories**:  
     - Champions may gain stats, traits, or progress along a Champion Path.  
     - Example outcomes: a villager who slays a bandit becomes more skilled in arms; a diplomat who resolves a feud gains Influence.  
