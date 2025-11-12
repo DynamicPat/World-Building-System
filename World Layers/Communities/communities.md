@@ -70,8 +70,14 @@ Communities represent collections of clans, families, and individuals bound toge
 
 #### Rolling Challenges
 When a community acts as a whole:  
-- Roll **d20 + relevant stat** vs Difficulty Class (DC).  
-- Example: *Community Prosperity 7* (modifier +2) rolls to recover from famine → d20 +2 vs DC.  
+- Roll **d20 + stat modifier** vs Difficulty Class (DC).  
+- **Stat to Modifier Conversion**: See [Stat Modifiers](/Core%20Mechanics/stat-modifiers.md) for the full conversion table.
+  - Stats 1-2 = -2 modifier
+  - Stats 3-4 = -1 modifier  
+  - Stats 5-6 = +0 modifier
+  - Stats 7-8 = +2 modifier
+  - Stats 9-10 = +3 modifier
+- **Example**: *Community Prosperity 7* (modifier +2) rolls to recover from famine → d20 +2 vs DC 14.  
 
 ---
 

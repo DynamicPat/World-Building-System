@@ -38,7 +38,8 @@ Epochs represent the **broadest eras of history**, each encompassing multiple ag
 
 ## Relationship to Ages
 - **Ages** exist within epochs, providing smaller-scale historical shifts.  
-- Example: An epoch may represent “Divine Oversight,” while its ages show different phases of divine rule (unity, schism, retreat).  
+- Example: An epoch may represent "Divine Oversight," while its ages show different phases of divine rule (unity, schism, retreat).
+- See [Ages](ages.md) for more information on age structure and recording.
 
 ---
 

@@ -61,7 +61,8 @@ Community **size** (Hamlet → Village → Town → City → Metropolis) affects
 ---
 
 ### Faith
-- **Definition**: Spiritual or cultural unity through gods, rituals, or shared belief systems.  
+- **Definition**: Spiritual or cultural unity through gods, rituals, or shared belief systems.
+- **Pantheon Connection**: See [Pantheon](/World%20Layers/World/pantheon.md) for details on the gods and their influence.
 - **Scaling by Size**:  
   - Hamlet: Shared traditions, ancestor worship, folk rites.  
   - Village: One dominant faith or ritual cycle.  

@@ -16,6 +16,9 @@ This document repository captures requirements for a layered RPG/fantasy world s
 - Events and rolls always translate into **narrative beats** that enhance gameplay.  
 - The system emphasizes **human play and entertainment** over pure simulation.  
 
+### Core Mechanics
+- [**Stat Modifiers**](/Core%20Mechanics/stat-modifiers.md): Conversion system for translating 1-10 stats into d20 roll modifiers across all layers.
+
 ### World Layers
 1. [**Individuals**](/World%20Layers/Individuals/individuals.md)
    - Generalized, ttrpg system-agnostic stat blocks with attributes, abilities, motivations, resources.
@@ -52,9 +55,9 @@ This document repository captures requirements for a layered RPG/fantasy world s
       - A scorned outcast hardens into a cunning survivor.  
       - A fallen warrior discovers spiritual or arcane strength after disgrace.  
       - A betrayed ally becomes a calculating villain or revolutionary.  
-    - Mechanically: roll a d20 after a significant loss; on success, the champion gains a **Path Shift** (stat bonus, dark talent, or resilience trait). On failure, Fate increases and the loss scars them, but growth may still come later.  
+    - Mechanically: roll a d20 after a significant loss; on success, the champion gains a **Path Shift** (stat bonus, dark talent, or resilience trait). On failure, [Fate](/Champion%20Emergence/champion-fate.md) increases and the loss scars them, but growth may still come later.  
   - This ensures both triumphs and tragedies can forge figures of influence.   
-- **Rise and Fall**: Fame and Fate increase with deeds; high Fate introduces decline checks.  
+- **Rise and Fall**: [Fame](/Champion%20Emergence/champion-fame.md) and [Fate](/Champion%20Emergence/champion-fate.md) increase with deeds; high Fate introduces decline checks.  
 - **Community Impact**: living champions grant bonuses; loss triggers unrest.
 
 ### Culture & Stories
@@ -70,7 +73,7 @@ This document repository captures requirements for a layered RPG/fantasy world s
   - Hooks emerge where player-facing opportunities arise.  
 
 ### Pantheon
-- Gods embody **concepts and forces**, with hierarchy influenced by Greek, Roman, and Celtic traditions.  
+- [**The Pantheon**](/World%20Layers/World/pantheon.md): Gods embody **concepts and forces**, with hierarchy influenced by Greek, Roman, and Celtic traditions.  
 - **High Triad**: Aureon (Sky), Neritha (Waters), Tharos (Stone).  
 - **Middle Court**: Veyra (Fertility), Kaelen (War), Liora (Dreams).  
 - **Wild Powers**: Fenros (Hunt), Morwen (Shadow), Cindral (Trickery).  
@@ -86,7 +89,7 @@ Tracked for each community:
 - Health & Shelter  
 
 Mechanics:
-- Status values: Abundant, Stable, Limited, Strained, Failing, Divided, Contested.  
+- Status values: Abundant, Stable, Limited, Strained, Failing.  
 - Each World Turn: roll for strained needs (DC 12).  
 - Failures → generate **Story Tokens**.  
 - Tokens then become **Story Hooks** when presented to players or woven into narrative arcs.

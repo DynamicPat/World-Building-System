@@ -26,7 +26,7 @@ Every deed carries *risk and weight*—its outcome may elevate or unravel a cham
 | **Tragic** | Losses or failures that reshape resolve. | Growth through pain, new motivations. |
 | **Defiant** | Rebellion against authority, fate, or gods. | Independence, chaos, or divine notice. |
 | **Restorative** | Healing, peacemaking, or rebuilding efforts. | Stability and faith increase. |
-| **Transformative** | Internal evolution; new purpose or moral pivot. | Alignment or path shift. |
+| **Transformative** | Internal evolution; new purpose or moral pivot. | Narrative, motivation, or path shift. |
 | **Cataclysmic** | World-altering acts—slaying demigods, raising armies, shattering seals. | Regional or epochal change. |
 
 These categories can be customized to fit setting tone and moral structure.

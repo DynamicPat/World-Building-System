@@ -26,6 +26,7 @@ Champion Seeds may arise from multiple sources, depending on world tone and sett
 
 ### 1. **Divine or Mythic Origin**
 - The gods or spirits mark individuals in response to imbalance, prophecy, or devotion.  
+- See [Pantheon](/World%20Layers/World/pantheon.md) for details on divine forces.
 - Example: A farmer dreams of flame and awakens able to speak to the wind.  
 
 ### 2. **Cultural or Ancestral Legacy**

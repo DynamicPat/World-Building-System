@@ -9,9 +9,9 @@ Unlike lower layers, the World is not a single entity but a **living system** co
 
 ## Role in the System
 - Provides the **macro context** for all other layers.  
-- Tracks **epochs and ages**
+- Tracks **[epochs](epochs.md) and [ages](ages.md)**.
 - Tracks **world-defining events**.  
-- Reflects how **gods, myths, and natural forces** shape mortal lives.  
+- Reflects how **[gods](pantheon.md), myths, and natural forces** shape mortal lives.  
 - Ensures player actions can ripple outward to influence the destiny of entire civilizations.  
 
 ---
@@ -36,7 +36,8 @@ Unlike lower layers, the World is not a single entity but a **living system** co
 
 ### Cosmic Influences
 - **Definition**: Forces beyond mortal control — gods, spirits, stars, or otherworldly beings.  
-- **Use**: Determine whether the world is in an **age of favor**, an **age of silence**, or an **age of chaos**.  
+- **Use**: Determine whether the world is in an **age of favor**, an **age of silence**, or an **age of chaos**.
+- See [Pantheon](pantheon.md) for details on divine forces and their influence.  
 
 ---
 
@@ -61,7 +62,7 @@ At the highest layer, the World can be measured by three broad traits:
 ---
 
 ## Growth and Change
-- **Ages**: The world shifts through defined ages (e.g., *Age of Dawn*, *Age of Conquest*, *Age of Silence*).  
+- **Ages**: The world shifts through defined ages (e.g., *Age of Dawn*, *Age of Conquest*, *Age of Silence*). See [Ages](ages.md) for more information.
 - **Catalysts**: Major victories, apocalyptic events, or divine mandates can trigger world-level shifts.  
 - **Player Impact**: Player-driven deeds (slaying gods, uniting empires, shattering artifacts) can escalate from local → realm → world scale.  
 
@@ -87,9 +88,9 @@ At the highest layer, the World can be measured by three broad traits:
 
 ## Recording
 Each World entry should include:  
-- **Current Age** and its defining themes.  
+- **Current [Age](ages.md)** and its defining themes.  
 - **Balance of Realms** (dominant, fractured, or multipolar).  
 - **Global Tensions** (at least 1 active).  
 - **Cultural Currents** (spread of ideas/faiths).  
-- **Cosmic Influences** (pantheon status, divine silence, celestial cycles).  
+- **Cosmic Influences** ([pantheon](pantheon.md) status, divine silence, celestial cycles).  
 - **World Stat Block** (Flux, Mythos, Connectivity).  

@@ -15,7 +15,7 @@ This file defines the **Clan Layer** of the world system. Clans are small groups
 ## Structure of a Clan
 
 ### Core Traits
-- **Size**: Typically 2–12 individuals. 2 is the minimum possible floor, but it's possible to have a clan larger than 12 when necessary. 
+- **Size**: Normally 2–12 individuals (minimum 2). Larger clans are possible but require appropriate community structure to support them — such as guild halls in towns, noble estates in cities, or established tribal hierarchies. Clans exceeding 12 members should have clear justification tied to their community's size, resources, and the clan's bond type.
 - **Bond Type**: What holds them together (See [Bond Types](bond-types.md) for more information).  
 - **Resources**: Assets they share (See the clan section in [Resources](/World%20Layers/resources.md) for more information).  
 - **Tension**: Internal strains (See the clan section in [Tensions](/World%20Layers/tensions.md) for more information).  
@@ -68,8 +68,14 @@ This file defines the **Clan Layer** of the world system. Clans are small groups
 
 #### Rolling Challenges
 When a clan acts as a unit:  
-- Roll **d20 + relevant stat** vs Difficulty Class (DC).  
-- Example: *Clan Reputation 7* (modifier +2) rolls to negotiate trade → d20 +2 vs DC.  
+- Roll **d20 + stat modifier** vs Difficulty Class (DC).  
+- **Stat to Modifier Conversion**: See [Stat Modifiers](/Core%20Mechanics/stat-modifiers.md) for the full conversion table.
+  - Stats 1-2 = -2 modifier
+  - Stats 3-4 = -1 modifier  
+  - Stats 5-6 = +0 modifier
+  - Stats 7-8 = +2 modifier
+  - Stats 9-10 = +3 modifier
+- **Example**: *Clan Reputation 7* (modifier +2) rolls to negotiate trade → d20 +2 vs DC 12.  
 
 ---
 

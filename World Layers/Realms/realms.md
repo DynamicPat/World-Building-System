@@ -79,8 +79,14 @@ Realms are measured with three core stats: **Power, Unity, and Prestige**. These
 
 ### Rolling Challenges
 When a realm takes major actions, roll:  
-- **d20 + relevant stat** vs Difficulty Class (DC).  
-- Example: *Realm Power 8* (modifier +3) rolls to conquer a neighbor → d20 +3 vs DC.  
+- **d20 + stat modifier** vs Difficulty Class (DC).  
+- **Stat to Modifier Conversion**: See [Stat Modifiers](/Core%20Mechanics/stat-modifiers.md) for the full conversion table.
+  - Stats 1-2 = -2 modifier
+  - Stats 3-4 = -1 modifier  
+  - Stats 5-6 = +0 modifier
+  - Stats 7-8 = +2 modifier
+  - Stats 9-10 = +3 modifier
+- **Example**: *Realm Power 8* (modifier +2) rolls to conquer a neighbor → d20 +2 vs DC 15.  
 
 ---
 
